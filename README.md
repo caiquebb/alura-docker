@@ -8,4 +8,4 @@ Projeto desenvolvido em um curso da Alura que aborda os seguintes tópicos:
 * Faça seus containers comunicarem entre si
 * Faça deploy na nuvem
 
-> Concluído em: 09/04/2021
+> Concluído em: 10/04/2021
